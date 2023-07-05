@@ -2,7 +2,7 @@
     box-sizing: border-box;}
 
   body {
-      font-family: 'Gothic+A1','Montserrat';
+      font-family: 'Gothic+A1';
       background-color:#F3F4F6;
       font-style: normal;
 
@@ -397,7 +397,7 @@ padding-bottom: 58px; }
 
 .impressive-btn{
   position: absolute;
-  right: 24px;
+  right: 0px;
   top: 50px;
   gap:24px;
   cursor: pointer;
@@ -432,6 +432,7 @@ box-shadow: 58px 4px 39px 0px rgba(77, 77, 77, 0.38);
 
 }
 .grey{
+  position: relative;
   border-radius: 10px;
   background:   #24272E; 
   width: 281px; 
