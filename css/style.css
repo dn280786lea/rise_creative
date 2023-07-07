@@ -2,7 +2,7 @@
     box-sizing: border-box;}
 
   body {
-      font-family: 'Gothic+A1';
+      font-family: 'Roboto';
       background-color:#F3F4F6;
       font-style: normal;
 
@@ -25,6 +25,9 @@
     h1, h2, h3, h4, h5, h6, p { 
       margin-top: 0; 
       margin-bottom: 0; 
+  }
+  button{
+    cursor: pointer;
   }
   .link{ 
     text-decoration:none;
@@ -424,6 +427,7 @@ box-shadow: 58px 4px 39px 0px rgba(77, 77, 77, 0.38);
 }
 
 .green{
+  position: relative;
   border-radius: 10px;
   background: #005C46; 
   width: 510px;
@@ -478,4 +482,9 @@ font-family: 'ITC Avant Garde Gothic Std';
 font-style: normal;
 font-weight: 600;
 line-height: normal; 
+}
+.green-card{
+  width: 218px; 
+padding-left: 39px;
+  
 }
