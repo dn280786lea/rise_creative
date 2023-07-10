@@ -567,7 +567,21 @@ width: 400px;
   border-bottom: 1px solid #D3D3D3;
   background:#101C26;
 
+
 }
 .name-form{
-margin-left: 40px;
+margin-left: 80px;
 }
+
+.bt-form{
+  border-radius: 100px;
+background: #F0E714; 
+padding: 13px 59px;
+color: #101C26;
+font-family: 'Inter';
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px;
+margin-left: 80px;
+margin-top: 53px; }
